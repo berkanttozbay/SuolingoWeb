@@ -1,0 +1,8 @@
+{
+  "name": "Suolingo - AI Speaking Coach",
+  "description": "An AI-powered English speaking assistant with real-time feedback, pronunciation analysis, and conversational practice using Gemini 2.5 and Veo models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
